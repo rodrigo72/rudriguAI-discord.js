@@ -52,19 +52,7 @@ const processChoices = require("./commands/processChoices.js");
 
 const sendMessage = async (channel) => {
 	const prompts = [
-		'diz uma coisa engraçada',
-		'o que achas de capitalimso',
-		'diz mal do bruno',
-		'nao gosto das aulas',
-		'O que é que faço com o meu progresso? ',
-		'hj está mau tempo, a chover mto',
-		'gosto de comer',
-		'minecraft',
-		'waifus sao nice',
-		'o jogo do gonçalo é nice',
-		'gosto de música',
-		'adoro radiohead',
-		'vamos fazer um filme',
+		// mensagens aleatorias aqui
 		'esta é uma prompt aleatória',
 	]
 
