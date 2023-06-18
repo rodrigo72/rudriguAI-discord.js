@@ -1,0 +1,12 @@
+{
+  "user": {
+    "ada": 120,
+    "curie": 70,
+    "davinci": 0
+  },
+  "token": {
+    "ada": 19,
+    "curie": 19,
+    "davinci": 10
+  }
+}
